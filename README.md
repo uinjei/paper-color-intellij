@@ -2,7 +2,8 @@
 
 A soothing and elegant IntelliJ theme inspired by the popular Paper Color theme for Vim. This theme brings a clean, minimalistic design with a focus on readability and productivity.
 
-![image](https://github.com/uinjei/paper-color-intellij/assets/6558799/fb7b56c9-d32c-42ed-96fd-ccf447dd95df)
+![image](https://github.com/uinjei/paper-color-intellij/assets/6558799/dc4f39f8-bde1-434f-afbd-871e5dc2182d)
+
 
 
 ## Installation
