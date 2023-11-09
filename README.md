@@ -38,7 +38,7 @@ If you'd like to contribute to this theme, please follow these steps:
 
 ## Feedback and Issues
 
-If you encounter any problems with the theme or would like to suggest improvements, please [open an issue](https://github.com/your-username/intellij-paper-color-theme/issues).
+If you encounter any problems with the theme or would like to suggest improvements, please [open an issue](https://github.com/uinjei/paper-color-intellij/issues).
 
 ## License
 
